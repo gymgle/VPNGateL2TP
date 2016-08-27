@@ -1,4 +1,4 @@
-获取VN Gate L2TP/IPsec 代理服务器IP地址的GAE小程序。
+获取VPN Gate L2TP/IPsec 代理服务器IP地址的GAE小程序。
 
 Demo: [http://getvpngate.appsp0t.com/][1]，
 这里用的是 `appsp零t`，而不是`appspot`，感谢搭建appspot代理的仁兄。
